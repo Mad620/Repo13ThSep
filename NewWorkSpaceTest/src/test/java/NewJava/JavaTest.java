@@ -8,7 +8,9 @@ public class JavaTest {
 		System.out.println("my new ");
         System.out.println("User 2");	
         System.out.println("Thank you");
+        System.out.println("test1");
         
+	
 	}
 
 }
